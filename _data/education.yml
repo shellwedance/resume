@@ -1,13 +1,12 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+- degree: Master, Computer Science Engineering
+  uni: Sogang University
+  year: 2017 &mdash; 2019
   awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+    - award: CGPA 3.71/4.3
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Bachelor, Computer Science Engineering
+  uni: Sogang University
+  year: 2013 &mdash; 2017
+  awards:
+    - award: CGPA 3.42/4.3 (Cum Laude)
