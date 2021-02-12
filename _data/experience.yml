@@ -3,7 +3,8 @@
 - company: 티맥스 클라우드
   position: 연구원
   duration: Feb, 2019 &mdash; 현재
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points
+  summary: 
+    <h3>K8s 클러스터 외부 Ceph를 관리하는 operator 개발 (진행중) <a href="https://www.github.com/tmax-cloud/hypersds-provisioner">(url)</a></h3>
     <ul class="resume-item-list">
     <li>A project you are proud of</li>
     <li>Another awesome project</li>
