@@ -35,7 +35,7 @@
           {% include icon-links.html %}
         </div>
 
-        <div class="executive-summary" itemprop="description" style="font: 19px 'Noto Sans KR';">
+        <div class="executive-summary" itemprop="description" style="font: 19px">
           {{ site.resume_header_intro }}
         </div>
 
@@ -57,7 +57,7 @@
         </header>
 
         {% for job in site.data.experience %}
-        <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization" style="font: 'Noto Sans KR', sans-serif;">
+        <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
           <h3 class="resume-item-title" itemprop="name">{{ job.company }}</h3>
           <h4 class="resume-item-details" itemprop="description" >{{ job.position }} &bull; {{ job.duration }}</h4>
           <p class="resume-item-copy">{{ job.summary }}</p>
