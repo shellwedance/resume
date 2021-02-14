@@ -135,19 +135,23 @@
 .content-section {
   margin: 0 0 3rem;
 
-  .resume-item { margin-bottom: 2rem; }
+  .resume-item {
+    margin-bottom: 2rem;
+    letter-spacing: -.03rem;
+  }
 
   .resume-item-title {
     @include sans_bold;
     margin: 0 0 .75rem;
-    font-size: 1.5rem;
+    font-size: 1.7rem;
     letter-spacing: -.05rem;
     line-height: 1;
   }
 
   .resume-item-details {
-    font-size: 1.125rem;
+    font-size: 1.3rem;
     margin: 0 0 .75rem;
+    //letter-spacing: -.25rem;
     line-height: 1;
 
     &.award-title {
@@ -216,12 +220,12 @@
     margin: 0 0 1rem;
     .resume-item { margin-bottom: 1rem; }
     .resume-item-title {
-      font-size: 16px;
+      font-size: 19px;
       line-height: .7em;
     }
 
     .resume-item-details {
-      font-size: 12px;
+      font-size: 15px;
       margin: 0 0 .75rem;
       line-height: .7em;
       font-style:italic;
