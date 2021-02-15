@@ -1,12 +1,24 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+# Open source contribution
+- skill: 오픈소스
+  description: <b>Rook, Velero, Ceph</b> 등의 프로젝트에 기능 추가, 버그 수정, docs 등의 컨트리뷰션 진행
+    <ul>
+    <li><a href="https://github.com/rook/rook/pull/5143" style="color:DarkSalmon">
+      (Rook) Replica Pool 생성 시 size를 명시하여 min_size가 계산되도록 기능 추가</a></li>
+    <li><a href="https://github.com/vmware-tanzu/velero/pull/3198" style="color:DarkSalmon">
+      (Velero) Volume restore 시 InitContainer 상태를 체크하는 로직의 버그 수정</a></li>
+    <li><a href="https://github.com/ceph/ceph/pull/32230" style="color:DarkSalmon">
+      (Ceph) Docs 오타 발견하여 수정</a></li>
+    </ul>
+    그 외의 컨트리뷰션 - 
+    <a href="https://github.com/rook/rook/commits?author=shellwedance" style="color:DarkSalmon">Rook</a>,
+    <a href="https://github.com/vmware-tanzu-velero/commits?author=shellwedance" style="color:DarkSalmon">Velero</a>,
+    <a href="https://github.com/ceph/ceph/commits?author=shellwedance" style="color:DarkSalmon">Ceph</a>
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
-
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# Awards & Certification
+- skill: 수상 및 자격증
+  description: 
+    <ul>
+    <li style="font-size:1.275rem">정보과학회 2018 한국소프트웨어종합학술대회 <b>우수논문발표상</b> 수상</li>
+    <li style="font-size:1.275rem">Certified Kubernetes Administrator(<b>CKA</b>) 취득, Sep, 2020 &mdash; Sep, 2023</li>
+    </ul>
