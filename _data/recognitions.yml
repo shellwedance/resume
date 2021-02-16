@@ -1,10 +1,10 @@
 # Recognitions
-- award: Outstanding Achievement
-  organization: Springfield Young Professionals
-  year: 2010, 2014
-  summary: Awarded the Outstanding Achievement award for contributions made to the community and professional accomplishments.
+- award: 우수발표논문상
+  organization: 한국정보과학회 
+  year: Feb, 2019
+  summary: 한국소프트웨어종합학술대회(KSC 2018) 컴퓨터시스템 분야 발표 세션에서 높은 점수를 받아 우수발표논문상을 수상하였습니다.
 
-- award: Most Likely To Succeed
-  organization: Springfield High School
-  year: 2004
-  summary: Voted Most Likely To Succeed by a panel of my high school peers.
+- award: Certified Kubernetes Administrator(<b>CKA</b>) 
+  organization: CNCF & Linux Foundation
+  year: Sep, 2020
+  summary: 업무 효율성을 증진하기 위해 CKA 자격증을 취득했습니다.

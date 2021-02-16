@@ -23,8 +23,9 @@ resume_contact_email:           "taeugi323@gmail.com"
   #resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<br>3년차 백엔드 개발자로 K8s에 다양한 스토리지 서비스를 제공하는 방법을 연구, 개발하고 있습니다. 
-  <ul>
+resume_header_intro: "
+  <p style='font-size:22px'>3년차 백엔드 개발자로 K8s에 다양한 스토리지 서비스를 제공하는 방법을 연구, 개발하고 있습니다.</p>
+  <ul style='font-size:19px'>
   <li>어떻게 하면 더 안전하게, 더 간결하게 구현할 수 있을지 항상 고민합니다.</li>
   <li>새로운 기술을 배우는 것을 좋아하며 어떻게 활용할 수 있을지 생각합니다.</li>
   <li>오픈소스 철학을 좋아하여 다양한 방법으로 오픈소스 프로젝트들에 참여합니다.</li>
@@ -42,7 +43,7 @@ resume_section_experience:      true
 resume_section_education:       true
 resume_section_projects:        false
 resume_section_skills:          true
-resume_section_recognition:     false
+resume_section_recognition:     true
 resume_section_links:           false
 resume_section_associations:    false
 #  resume_section_interests:     false
