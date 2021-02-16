@@ -1,14 +1,12 @@
 # Skills
 # Open source contribution
 - skill: 오픈소스
-  description: <b>Rook, Velero, Ceph</b> 등의 프로젝트에 기능 추가, 버그 수정, docs 등의 컨트리뷰션 진행
+  description: <b>Rook, Velero</b> 등의 프로젝트에 기능 추가, 버그 수정, docs 수정 등 컨트리뷰션 진행
     <ul>
     <li><a href="https://github.com/rook/rook/pull/5143" style="color:DarkSalmon">
       (Rook) Replica Pool 생성 시 size를 명시하여 min_size가 계산되도록 기능 추가</a></li>
     <li><a href="https://github.com/vmware-tanzu/velero/pull/3198" style="color:DarkSalmon">
       (Velero) Volume restore 시 InitContainer 상태를 체크하는 로직의 버그 수정</a></li>
-    <li><a href="https://github.com/ceph/ceph/pull/32230" style="color:DarkSalmon">
-      (Ceph) Docs 오타 발견하여 수정</a></li>
     </ul>
     그 외의 컨트리뷰션 - 
     <a href="https://github.com/rook/rook/commits?author=shellwedance" style="color:DarkSalmon">Rook</a>,

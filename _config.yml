@@ -23,7 +23,12 @@ resume_contact_email:           "taeugi323@gmail.com"
   #resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<ul><li>모든 혁신의 시작은 인프라라고 굳게 믿는 개발자입니다.</li><li>철저한 테스트 코드가 인프라를 위협하는 1%의 위험을 걷어낼 수 있다고 생각합니다.</li><li>오픈소스 철학을 좋아하여 다양한 방법으로 오프소스 프로젝트들에 참여합니다.</li><li>어떤 상대와도 소통할 수 있다고 믿으며, 더 힘들수록 더 웃으면서 일합니다.</li></ul>"
+resume_header_intro: "<br>3년차 백엔드 개발자로 K8s에 다양한 스토리지 서비스를 제공하는 방법을 연구, 개발하고 있습니다. 
+  <ul>
+  <li>어떻게 하면 더 안전하게, 더 간결하게 구현할 수 있을지 항상 고민합니다.</li>
+  <li>새로운 기술을 배우는 것을 좋아하며 어떻게 활용할 수 있을지 생각합니다.</li>
+  <li>오픈소스 철학을 좋아하여 다양한 방법으로 오픈소스 프로젝트들에 참여합니다.</li>
+  </ul>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
