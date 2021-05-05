@@ -1,4 +1,19 @@
-# Interests
-- description: Human rights and world affairs
-- description: Music (baritone saxiphonist)
-- description: Linguistics
+# Skills
+# Language, projects
+- skill: Language
+  description:
+    <ul>
+    <li><b>Go(3)</b>, <b>C/C++(3)</b>, Python(2), Java(1)</li>
+    </ul>
+
+- skill: Storage Software
+  description:
+    <ul>
+    <li><b>Ceph(3)</b>, GlusterFS(1)</li>
+    </ul>
+
+- skill: Cloud Native Project
+  description:
+    <ul>
+    <li><b>K8s(3)</b>, <b>Rook(4)</b>, <b>Velero(4)</b>, <b>Ceph-CSI(3)</b>, Kubebuilder(1), Prometheus(1), Helm(1), Kustomize(1)</li>
+    </ul>

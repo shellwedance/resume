@@ -68,6 +68,27 @@
       <!-- end Experience -->
       {% endif %}
 
+      {% if site.resume_section_interests %}
+      <!-- begin Interests -->
+      <section class="content-section">
+
+        <header class="section-header">
+	  <h2>Skill <p class="icon-link" style="display:inline" title="1: 해당 기술을 간단하게 사용할 수 있는 단계
+2: 해당 기술의 작동 구조를 파악하고 있고, 응용 가능한 단계
+3: 해당 기술을 전반적으로 코드 레벨에서 파악하고 있고, production level에서 활용 가능한 단계
+4: 해당 기술 자체에 기여했거나 할 수 있는 단계">{% include icons/icon-question.html %}</p></h2>
+        </header>
+
+        {% for interest in site.data.interests %}
+        <div class="resume-item">
+          <h4 class="resume-item-details" style="font-size:1.5rem">{{ interest.skill }}</h4>
+          <p class="resume-item-copy">{{ interest.description }}</p>
+        </div>
+        {% endfor %}
+
+      </section>
+      <!-- end Interests -->
+      {% endif %}
 
       {% if site.resume_section_projects %}
       <!-- begin Projects -->
@@ -174,26 +195,6 @@
 
       </section>
       <!-- end Associations -->
-      {% endif %}
-
-      {% if site.resume_section_interests %}
-      <!-- begin Interests -->
-      <section class="content-section">
-
-        <header class="section-header">
-          <h2>Outside Interests</h2>
-        </header>
-
-        <div class="resume-item">
-          <ul class="resume-item-list">
-            {% for interest in site.data.interests %}
-            <li>{{ interest.description }}</li>
-            {% endfor %}
-          </ul>
-        </div>
-
-      </section>
-      <!-- end Interests -->
       {% endif %}
 
       {% if site.resume_section_links %}
