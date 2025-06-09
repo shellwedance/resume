@@ -2,11 +2,11 @@
 # VP of Global Communications
 - company: 라인플러스
   position: 클라우드 엔지니어
-  duration: Aug, 2021 &mdash; 현재
+  duration: Jul, 2021 &mdash; 현재
   summary:
     <h3 style="font-size:1.5rem;color:coral">클라우드 로그 플랫폼 개발 및 운영</h3>
-    사내 프라이빗 클라우드에서 작동하는 서비스들의 로그를 저장, 관리하는 플랫폼을 개발해서 운영하고 있습니다.
-    로그 트래픽 160K RPS까지 딜레이 없이 수용하고 있으며 로그 기반의 메트릭을 추출하여 서비스하고 있습니다.
+    사내 프라이빗 클라우드 사용자의 어플리케이션 로그와 클라우드 서비스 자체의 로그를 저장, 관리하는 플랫폼을 개발 및 운영하고 있습니다.
+    로그 파이프라인을 구성하여 트래픽 160K RPS까지 딜레이 없이 수용하고 있으며, 로그 기반의 메트릭을 추출하여 서비스하고 있습니다.
 
     <h4 style="font-size:1.3rem;margin-block-end:0.5em">What I did</h4>
     <ul class="resume-item-list" style="margin-block-start:0.5em;margin-block-end:2em">
