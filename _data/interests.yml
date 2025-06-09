@@ -9,5 +9,5 @@
 - skill: Open Source Software
   description:
     <ul>
-    <li>K8s, OpenSearch, Ceph, Harbor</li>
+    <li>K8s, OpenSearch, OpenTelemetry, Ceph, Harbor</li>
     </ul>
