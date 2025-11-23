@@ -30,6 +30,18 @@
     <li>이미지 레지스트리 아키텍처 설계 참여 및 K8s에 Harbor 클러스터 및 자체 alertmanager 구축</li>
     </ul>
 
+    <h3 style="font-size:1.5rem;color:coral">서버리스 서비스 개발</h3>
+    4개 언어의 빌드와 이벤트 트리거 및 zero-scale을 지원하는 사내 프라이빗 클라우드의 Function 컴퓨팅 서비스를 개발했습니다.
+    확장성을 고려하여 C-plane, D-plane 클러스터를 분리하는 구조 및 각 클러스터에서 사용할 CR과 컨트롤러의 설계 및 구현에 참여했습니다.
+    또한 CI/CD를 담당하여 환경별 배포 및 통합 테스트를 자동화했습니다.
+
+    <h4 style="font-size:1.3rem;margin-block-end:0.5em">What I did</h4>
+    <ul class="resume-item-list" style="margin-block-start:0.5em;margin-block-end:2em">
+    <li>확장성을 위해 런타임, 빌드, 트리거 등 Function의 추상화된 정보를 관리하는 C-plane과 Knative, Istio를 배포하는 D-plane을 분리하는 구조 설계 참여</li>
+    <li>Knative, Istio 연동 및 클러스터의 리소스 사용량을 관리하는 D-plane 컨트롤러 구현</li>
+    <li>환경별 배포 정책 수립 및 ArgoCD와 GitOps를 활용화여 배포 자동화</li>
+    </ul>
+
 - company: 티맥스 클라우드
   position: 스토리지 연구원
   duration: Feb, 2019 &mdash; Jul, 2021
