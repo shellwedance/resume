@@ -65,6 +65,10 @@ resume_print_social_links:      true
 # Design settings
 resume_theme:                   default
 
+# Files not published to the site
+exclude:
+  - scripts
+
 # Note: when editing locally, remember to restart
 # your Jekyll server when you edit this file. Changes
 # to _config.yml are only recognized when the server starts
